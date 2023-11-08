@@ -11,3 +11,6 @@ CoinMarketCap API: Used to fetch real-time data about cryptocurrencies, includin
 Plotly: A JavaScript graphing library used for creating interactive visualizations, including bar charts and pie charts.
 
 HTML/CSS: Used for structuring the web pages and styling the user interface.
+
+## Link:
+https://asahoo4.pythonanywhere.com/
